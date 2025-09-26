@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enquiry | Unique Scents</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <img src="logo.png" alt="Unique Scents Logo" class="logo" width="200" height="150">
+  <nav>
+    <ul>
+      <a href="index.html" class="active">Home</a><br>
+      <a href="about.html" class="active">About Us</a><br>
+      <a href="products.html">Products</a><br>
+      <a href="enquiry.html">Enquiry</a><br>
+      <a href="contact.html">Contact</a><br>
+    </ul>
+  </nav>
+</header>
+
+<body>
+  <h1>Make an Enquiry</h1>
+  <form action="#" method="post">
+    <div>
+        <table>
+            <tr>
+               <td><label for="name"> Name:</label></td>
+               <td><input type="text" id="name" name="name" required></td>
+            </tr>
+
+            <tr>
+               <td><label for="Surname">Surame:</label></td>
+               <td><input type="text" id="Surame" name="Surname" required></td>
+            </tr>
+
+            <tr>
+                <td><label for="email">Email Address:</label></td>
+                <td><input type="email" id="email" name="email" placeholder="your@email.com"></td>
+            </tr>
+
+            <tr>
+               <td><label for="phone number">Phone number:</label></td>
+               <td><input type="text" id="phone no." name="phone.no" placeholder="+27*********"></td>
+            </tr>
+
+            <tr>
+                <td><label for="gender">Gender:</label></td>
+                <td>
+                    <label for="Female">F</label>
+                    <input type="radio" id="Female" name="gender">
+                    <label for="Male">M</label>
+                    <input type="radio" id="Male" name="gender">
+                </td>     
+            </tr>
+
+            <tr>
+                <td><label for ="Province">Province Name</label></td>
+                <td><select name="Province"id="Province">
+                    <option value="Gauteng">Gauteng</option>
+                    <option value="Mpumalanga">Mpumalanga</option>
+                    <option value="KwaZulu Natal">KwaZulu Nata</option>
+                    <option value="Freestate">Freestate</option>
+                    <option value="Limpopo">Limpopo</option>
+                    <option value="North West">North West</option>
+                    <option value="Western Cape">Western Cape</option>
+                    <option value="Eastern Cape">Eastern Cape</option>
+                    <option value="Northern Cape">Northern Cape</option>
+                    </select>
+                </td>
+            </tr>
+         <tr>
+               <td><label for="message"> YOUR ENQURIY:</label></td>
+               <td><input type="message" id="message" name="message" required></td>
+            </tr>
+             
+              <tr>
+                <td><label for ="type">Type of Enquiry<label></td>
+                <td><select name="Type"id="Type">
+                    <option value="product">product Enquiry</option>
+                    <option value="Investors">investors</option>
+                    <option value="assistance">assistance enquiry</option>
+                    
+                    </select>
+                </td>
+             </tr>
+            
+        </table>
+
+    <button type="submit">Submit</button>
+  </form>
+</main>
+  </div>
+<footer>
+</footer>
+</body>
+</html>
