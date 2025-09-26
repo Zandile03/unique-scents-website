@@ -29,12 +29,13 @@ It was built using HTML and CSS as part of my web design coursework.
 
 
 ## Screenshots
-(Add images of how your site looks on desktop, tablet, and mobile here.)
+(Add images of how your site looks on desktop.)
 <img width="1366" height="768" alt="Screenshot 1" src="https://github.com/user-attachments/assets/533549a8-9265-4ba3-989b-a6880294bfa4" />
 <img width="1366" height="768" alt="Screenshot 2" src="https://github.com/user-attachments/assets/4c600d37-0178-4e0b-bf0c-381d0ed32e25" />
+<img width="1366" height="768" alt="Screenshot 2025-09-26 161149" src="https://github.com/user-attachments/assets/39cb263d-0008-4523-9a16-d8d4f4d9bed2" />
+
 
 
 ## References
-- 
-- Project Management in South Africa, 2nd Edition  
-- [W3Schools CSS Tutorial](https://www.w3schools.com/css/)  
+- Perfume Collection. 2023. Perfume inspiration and fragrance ideas. [online] Available at: https://www.perfumecollection.com
+- Body Care Essentials. 2024. Natural body butters and skincare tips. [online] Available at: https://www.bodycareessentials.com
